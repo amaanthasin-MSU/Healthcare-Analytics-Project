@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Local PostgreSQL",
+            "database": "postgre",
+            "username": "amaanthasin"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "mi_ed_surge",
+            "name": "Local postgreSQL",
+            "username": "amaanthasin"
+        }
+    ]
+}
